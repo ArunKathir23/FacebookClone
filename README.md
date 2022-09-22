@@ -1,1 +1,1 @@
-# FacebookClone
+# facebook-clone-boilerplate
